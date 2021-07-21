@@ -6,7 +6,12 @@ Foram utilizados para controlar a atualização do componente (useEffect, useSta
 
 Execução local
 npm install
-Instalação de todas as dependências do projeto, configuradas no arquivo package.json
+Instalação de todas as dependências do projeto, configuradas no arquivo package.json.
+
+Dificuldades e melhorias
+As maiores dificuldades foram na hora de identar os valores e fazer suas respectivas somas.
+
+Para melhorias, caso houvesse mais tempo, teria feito um layout melhor.
 
 npm test
 Execução de testes unitários dos componentes.
